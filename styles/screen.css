@@ -1,0 +1,100 @@
+body {
+	background-image:url(../img/arbitrate.jpg);
+	background-position:5px 5px;
+	background-repeat:no-repeat;
+	background-size:105px 82px;
+}
+	h1 {
+		margin-bottom:0;
+		padding-bottom:0;
+		margin-left:100px;
+	}
+		
+	#header p {
+		margin-top:0;
+		padding-top:0;
+		font-style:italic;
+		margin-left:100px;
+	}
+	
+	#header span a {
+		font-style:italic;
+		font-weight:bold;
+	}
+		
+#externalLinks a {
+	border:0;
+	padding:5px;
+}
+
+	#externalLinks img {
+		border:0;
+	}
+	
+acronym {
+	border-bottom:1px dashed #999;
+}
+
+	dt {
+		font-weight:bold;
+	}
+	
+		dd {
+			margin-bottom:10px;
+		}
+		
+	#footer p {
+		padding:0;
+		color:#999;
+		font-style:italic;
+	}
+
+table{
+	padding: 0;
+	text-align:center;
+	font-size:85%
+	margin:auto;
+	font-family: Calibri, sans-serif;
+}
+
+	caption {
+		padding: 0 0 5px 0;
+		text-align: center;
+		font-style:italic;
+		font-size:85%;
+	}
+
+	th {
+		border:1px solid #999;
+		letter-spacing: 2px;
+		font-weight:bold;
+		text-align: center;
+		padding: 6px 6px 6px 12px;
+		background: #999;
+	}
+
+		td {
+			border:1px solid #999;
+			text-align:left;
+			background: #fff;
+			padding: 6px 6px 6px 12px;
+			color: #333;
+			margin:0;
+		}
+		
+.img {
+	display:block;
+	clear:both;
+	margin:10px auto;
+	text-align:center;
+}
+
+	.img p {
+		font-size:85%;
+		font-style:italic;
+		width:100%;
+		text-align:center;
+		margin:0;
+		padding:0;
+	}
+	
