@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:arbitext="http://huvanile.com/#" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Arbitext: Austin Winners</title>
+    <link>http://huvanile.com/showfeed.php?feed=Austin%20Winners.xml</link>
+    <description>Profitable book deals (winners) in Austin!</description>
+    <language>en-US</language>
+    <lastBuildDate>Saturday, November 26, 2016</lastBuildDate>
+    <item>
+      <title>Intermediate Algebra Plus NEW MyMathLab with Pearson eText -</title>
+      <link>http://huvanile.com/showitem.php?item=Austin%20Winners.xml|20161115132797803218941751</link>
+      <guid isPermaLink="false">20161115132797803218941751</guid>
+      <pubDate>Friday, November 18, 2016</pubDate>
+      <arbitext:postLink>https://href.li/?http://austin.craigslist.org/bks/5877894521.html</arbitext:postLink>
+      <arbitext:postTitle>Intermediate Algebra Sullivan mymathlab</arbitext:postTitle>
+      <arbitext:postCity>North Austin</arbitext:postCity>
+      <arbitext:bookTitle>Intermediate Algebra Plus NEW MyMathLab with Pearson eText -</arbitext:bookTitle>
+      <arbitext:isbn>9780321894175</arbitext:isbn>
+      <arbitext:askingPrice>1</arbitext:askingPrice>
+      <arbitext:buybackLink>https://href.li/?https://bookscouter.com/prices.php?isbn=9780321894175&amp;all</arbitext:buybackLink>
+      <arbitext:buybackPrice>37</arbitext:buybackPrice>
+      <description>Found a winner in North Austin for $35.8 potential profit</description>
+    </item>
+    <item>
+      <title>Fundamentals of Nursing</title>
+      <link>http://huvanile.com/showitem.php?item=Austin%20Winners.xml|20161014922978145118561430</link>
+      <guid isPermaLink="false">20161014922978145118561430</guid>
+      <pubDate>Tuesday, November 08, 2016</pubDate>
+      <arbitext:postLink>https://href.li/?http://austin.craigslist.org/bks/5828098989.html</arbitext:postLink>
+      <arbitext:postTitle>Fundamental of Nursing</arbitext:postTitle>
+      <arbitext:postCity>LOCKHART</arbitext:postCity>
+      <arbitext:bookTitle>Fundamentals of Nursing</arbitext:bookTitle>
+      <arbitext:isbn>9781451185614</arbitext:isbn>
+      <arbitext:askingPrice>30</arbitext:askingPrice>
+      <arbitext:buybackLink>https://href.li/?https://bookscouter.com/prices.php?isbn=9781451185614&amp;all</arbitext:buybackLink>
+      <arbitext:buybackPrice>47</arbitext:buybackPrice>
+      <description>Found a winner in LOCKHART for $17.16 potential profit</description>
+    </item>
+  </channel>
+</rss>

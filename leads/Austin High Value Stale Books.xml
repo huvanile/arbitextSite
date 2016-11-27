@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:arbitext="http://huvanile.com/#" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Arbitext: Austin High Value Stale Books</title>
+    <link>http://huvanile.com/showfeed.php?feed=Austin%20High%20Value%20Stale%20Books.xml</link>
+    <description>High value stale books in Austin.  These books can be sold for a profit, but only if the seller (who hasn't been successful selling them at the current asking price) will come down on the price a bit.</description>
+    <language>en-US</language>
+    <lastBuildDate>Saturday, November 26, 2016</lastBuildDate>
+    <item>
+      <title>Kozier &amp; Erb's Fundamentals of Nursing (10th Edition) (Funda</title>
+      <link>http://huvanile.com/showitem.php?item=Austin%20High%20Value%20Stale%20Books.xml|20169231819978013397436280</link>
+      <guid isPermaLink="false">20169231819978013397436280</guid>
+      <pubDate>Thursday, October 20, 2016</pubDate>
+      <arbitext:postLink>https://href.li/?http://austin.craigslist.org/bks/5796211518.html</arbitext:postLink>
+      <arbitext:postTitle>Kozier &amp; Erb's Fundamentals of Nursing, 10th Edition</arbitext:postTitle>
+      <arbitext:postCity>Cedar Park</arbitext:postCity>
+      <arbitext:bookTitle>Kozier &amp; Erb's Fundamentals of Nursing (10th Edition) (Funda</arbitext:bookTitle>
+      <arbitext:isbn>9780133974362</arbitext:isbn>
+      <arbitext:askingPrice>80</arbitext:askingPrice>
+      <arbitext:buybackLink>https://href.li/?https://bookscouter.com/prices.php?isbn=9780133974362&amp;all</arbitext:buybackLink>
+      <arbitext:buybackPrice>58</arbitext:buybackPrice>
+      <description>Found a hvsb in Cedar Park for $0 potential profit</description>
+    </item>
+    <item>
+      <title>America: Past and Present, Volume 1 (10th Edition)</title>
+      <link>http://huvanile.com/showitem.php?item=Austin%20High%20Value%20Stale%20Books.xml|201610231539978020590519575</link>
+      <guid isPermaLink="false">201610231539978020590519575</guid>
+      <pubDate>Sunday, October 23, 2016</pubDate>
+      <arbitext:postLink>https://href.li/?http://austin.craigslist.org/bks/5842818421.html</arbitext:postLink>
+      <arbitext:postTitle>America: Past and Present 10th edition</arbitext:postTitle>
+      <arbitext:postCity>Pflugerville</arbitext:postCity>
+      <arbitext:bookTitle>America: Past and Present, Volume 1 (10th Edition)</arbitext:bookTitle>
+      <arbitext:isbn>9780205905195</arbitext:isbn>
+      <arbitext:askingPrice>75</arbitext:askingPrice>
+      <arbitext:buybackLink>https://href.li/?https://bookscouter.com/prices.php?isbn=9780205905195&amp;all</arbitext:buybackLink>
+      <arbitext:buybackPrice>50</arbitext:buybackPrice>
+      <description>Found a hvsb in Pflugerville for $0 potential profit</description>
+    </item>
+    <item>
+      <title>Construction Law for Design Professionals, Construction Mana</title>
+      <link>http://huvanile.com/showitem.php?item=Austin%20High%20Value%20Stale%20Books.xml|2016101612589781111986902100</link>
+      <guid isPermaLink="false">2016101612589781111986902100</guid>
+      <pubDate>Sunday, October 16, 2016</pubDate>
+      <arbitext:postLink>https://href.li/?http://austin.craigslist.org/bks/5831439044.html</arbitext:postLink>
+      <arbitext:postTitle>Construction Law</arbitext:postTitle>
+      <arbitext:postCity>Round Rock/Austin</arbitext:postCity>
+      <arbitext:bookTitle>Construction Law for Design Professionals, Construction Mana</arbitext:bookTitle>
+      <arbitext:isbn>9781111986902</arbitext:isbn>
+      <arbitext:askingPrice>100</arbitext:askingPrice>
+      <arbitext:buybackLink>https://href.li/?https://bookscouter.com/prices.php?isbn=9781111986902&amp;all</arbitext:buybackLink>
+      <arbitext:buybackPrice>43</arbitext:buybackPrice>
+      <description>Found a hvsb in Round Rock/Austin for $0 potential profit</description>
+    </item>
+  </channel>
+</rss>
